@@ -1,0 +1,15 @@
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\bin\Debug\net7.0\MultiThreadingAssigment.exe
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\bin\Debug\net7.0\MultiThreadingAssigment.deps.json
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\bin\Debug\net7.0\MultiThreadingAssigment.runtimeconfig.json
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\bin\Debug\net7.0\MultiThreadingAssigment.dll
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\bin\Debug\net7.0\MultiThreadingAssigment.pdb
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.csproj.AssemblyReference.cache
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.AssemblyInfoInputs.cache
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.AssemblyInfo.cs
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.dll
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\refint\MultiThreadingAssigment.dll
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.pdb
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\MultiThreadingAssigment.genruntimeconfig.cache
+C:\Users\Lovch\source\repos\MultiThreadingAssigment\MultiThreadingAssigment\obj\Debug\net7.0\ref\MultiThreadingAssigment.dll
